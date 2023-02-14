@@ -6,7 +6,6 @@ import { DetailsComponent } from './shared/detailsOfStudent/details.component';
 import { EditStudentComponent } from './shared/editOfStudent/edit-student.component';
 import { StudentListComponent } from './shared/listOfStudent/student-list.component';
 const routes: Routes = [
-
   {
     path: '', component: StudentListComponent
   },
