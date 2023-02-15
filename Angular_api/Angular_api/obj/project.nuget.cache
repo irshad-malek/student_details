@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0lvMyW0RVXneJgZYo6t4XV2r89rYKnip4RIRBTlZwZPtngHjIWXgAv5mJfH3AWWS/dnOu3TaNHYU/VJq//jOQ==",
+  "dgSpecHash": "3+hNK0f8vMzpGLkkfH24GWu1K5d3S+Cypnj2gmyNe5eAJHueh2CDGirRYrayt3S67FPkV4U/6WuDSfgnrRarvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irshad.malek\\source\\repos\\Angular_api\\Angular_api\\Angular_api.csproj",
+  "projectFilePath": "E:\\Student_details\\Angular_api\\Angular_api\\Angular_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irshad.malek\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.1\\microsoft.aspnetcore.authentication.jwtbearer.3.1.1.nupkg.sha512",
     "C:\\Users\\irshad.malek\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
